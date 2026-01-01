@@ -1,0 +1,32 @@
+# Environment variables
+.env
+.env.*
+
+# Virtual environments
+vir311/
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LangChain / cache
+.cache/
+.langchain/
+
+# Vector stores / embeddings
+chroma/
+faiss_index/
+qdrant/
+vectorstore/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
