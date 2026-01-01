@@ -11,7 +11,8 @@ It focuses on understanding core concepts like retrievers, vector stores, text s
 - `chains/` – LangChain chains and pipelines  
 - `runnables/` – Runnable-based workflows  
 - `output_parsers/` – Structured output handling  
-- `models/` – LLM interaction examples  
+- `models/` – LLM interaction examples
+- `YoutubeChatbot/` - Simple YouTube video chatbot 
 
 ## Setup
 ```bash
