@@ -19,34 +19,33 @@ python -m venv vir311
 source vir311/bin/activate
 pip install -r requirements.txt
 ```
-## 🧪 What I’m Exploring
+##  What I’m Exploring
 - Different retrieval strategies and when to use them
 - Trade-offs between sparse, dense, and hybrid retrieval
 - Chunking strategies and their impact on retrieval quality
 - Modular LangChain components using runnables
 - Basic RAG pipelines and experimentation workflows
 
-## 📌 Current Status
+##  Current Status
 This repository is actively evolving as I experiment with new ideas, patterns, and tools in the GenAI ecosystem.  
 Code quality and structure are prioritized over completeness.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - LangChain
 - Vector stores (FAISS / Chroma)
 - Jupyter Notebooks
 - Hugging Face / API-based LLMs
 
-## 🔒 Notes
+## Notes
 - Environment variables and credentials are stored in `.env` (ignored by Git)
 - Heavy artifacts like embeddings and caches are not committed
 
-## 📈 Future Improvements
+##  Future Improvements
 - Add end-to-end RAG demo
 - Introduce reranking and compression steps
 - Benchmark different retrievers
 - Improve documentation with examples
 
 ---
-
-⭐ If you find this repository useful, feel free to explore or fork it.
+If you find this repository useful, feel free to explore or fork it.
