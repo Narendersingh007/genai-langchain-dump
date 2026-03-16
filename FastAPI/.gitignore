@@ -1,0 +1,42 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+myvenv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# coverage
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI / uvicorn temp
+*.pid
